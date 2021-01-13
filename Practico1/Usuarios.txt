@@ -1,0 +1,2 @@
+Usuarios
+Los usuarios del sistema se pueden asociar a grupos de trabajo que se definieran en el sistema, pero esto lo hace el administrador de grupos. Cualquier usuario se puede convertir en administrador de grupos, y este puede crear un grupo y se encarga de su gestión (alta y baja de usuarios en el grupo y eliminación del grupo). Un usuario puede pertenecer a varios grupos. Cada usuario tiene acceso a una agenda personal.
