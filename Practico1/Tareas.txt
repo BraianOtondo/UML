@@ -1,0 +1,6 @@
+La agenda consta de un calendario, un directorio de contactos, una lista de tareas y una lista de notas.
+En la lista de tareas, cada una consta de una fecha de terminación (o sin fecha de terminación),
+ un título, un texto descriptivo, una prioridad, y una categoría (para clasificarlas en grupos de tareas).
+ También tienen un indicador de hasta qué punto se ha cumplido (porcentaje, cuando llega a 100 es que se ha completado).
+ Se podrá crear, consultar (de varias maneras, por nombre, grupo de tareas,
+ estado y fecha de terminación), modificar o borrar elementos de esta lista. La fecha de terminación se verá reflejada en el calendario
